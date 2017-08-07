@@ -1,0 +1,6 @@
+CREATE TABLE "links" (
+  "id" INTEGER PRIMARY KEY  NOT NULL
+, "url" VARCHAR NOT NULL
+, "category" VARCHAR NOT NULL
+, "created_on" VARCHAR NOT NULL
+, "done" VARCHAR NOT NULL);
